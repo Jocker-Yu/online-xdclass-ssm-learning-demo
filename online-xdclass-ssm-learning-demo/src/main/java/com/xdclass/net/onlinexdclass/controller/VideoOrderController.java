@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
  * @author: Joker.yu 2023-12-20 16:19
  **/
 @RestController("test")
-@RestController("test/1")
 public class VideoOrderController {
 
 }
