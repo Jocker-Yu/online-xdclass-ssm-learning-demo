@@ -28,10 +28,8 @@
   </resultMap>
 
   <select id="listVideo" resultType="com.xdclass.net.onlinexdclass.entity.Video">
-
     select *
     from video
-
   </select>
 
   <select id="findById" resultType="com.xdclass.net.onlinexdclass.entity.Video">
